@@ -1,0 +1,13 @@
+com.benjaminabel.vibration-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.benjaminabel.vibration-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.benjaminabel.vibration-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.benjaminabel.vibration-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.benjaminabel.vibration-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.8.3\android\src\main\res
+com.benjaminabel.vibration-profile-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\vibration-1.8.3\android\src\profile\res
+com.benjaminabel.vibration-packaged_res-6 C:\Users\mrsur\downloader\downloader\build\device_info_plus\intermediates\packaged_res\profile
+com.benjaminabel.vibration-pngs-7 C:\Users\mrsur\downloader\downloader\build\vibration\generated\res\pngs\profile
+com.benjaminabel.vibration-resValues-8 C:\Users\mrsur\downloader\downloader\build\vibration\generated\res\resValues\profile
+com.benjaminabel.vibration-rs-9 C:\Users\mrsur\downloader\downloader\build\vibration\generated\res\rs\profile
+com.benjaminabel.vibration-mergeProfileResources-10 C:\Users\mrsur\downloader\downloader\build\vibration\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.benjaminabel.vibration-mergeProfileResources-11 C:\Users\mrsur\downloader\downloader\build\vibration\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.benjaminabel.vibration-merged_res-12 C:\Users\mrsur\downloader\downloader\build\vibration\intermediates\merged_res\profile

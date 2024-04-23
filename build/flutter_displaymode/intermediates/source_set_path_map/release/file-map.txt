@@ -1,0 +1,12 @@
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_displaymode-0.6.0\android\src\main\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-release-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_displaymode-0.6.0\android\src\release\res
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-pngs-6 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\generated\res\pngs\release
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-resValues-7 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\generated\res\resValues\release
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-rs-8 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\generated\res\rs\release
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-mergeReleaseResources-9 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-mergeReleaseResources-10 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ajinasokan.flutterdisplaymode.flutter_displaymode-merged_res-11 C:\Users\mrsur\downloader\downloader\build\flutter_displaymode\intermediates\merged_res\release

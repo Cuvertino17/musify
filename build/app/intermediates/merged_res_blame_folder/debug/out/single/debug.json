@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable_spiral2.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable/spiral2.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable_launch_background.xml.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-xxhdpi_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-xxhdpi/spiral.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/layout_medium_template.xml.flat",
+        "source": "com.foretech.musify.app-main-21:/layout/medium_template.xml"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-hdpi_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-hdpi/spiral.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-mdpi_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-mdpi/spiral.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-xxxhdpi_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-xxxhdpi/spiral.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-v21_launch_background.xml.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable-xhdpi_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable-xhdpi/spiral.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable_ic_stat_universe.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable/ic_stat_universe.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.foretech.musify.app-main-21:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.foretech.musify.app-merged_res-27:/drawable_spiral.png.flat",
+        "source": "com.foretech.musify.app-main-21:/drawable/spiral.png"
+    }
+]

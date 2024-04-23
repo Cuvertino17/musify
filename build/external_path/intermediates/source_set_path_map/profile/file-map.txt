@@ -1,0 +1,12 @@
+com.pinciat.external_path-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.pinciat.external_path-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.pinciat.external_path-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.pinciat.external_path-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.pinciat.external_path-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\external_path-1.0.3\android\src\main\res
+com.pinciat.external_path-profile-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\external_path-1.0.3\android\src\profile\res
+com.pinciat.external_path-pngs-6 C:\Users\mrsur\downloader\downloader\build\external_path\generated\res\pngs\profile
+com.pinciat.external_path-resValues-7 C:\Users\mrsur\downloader\downloader\build\external_path\generated\res\resValues\profile
+com.pinciat.external_path-rs-8 C:\Users\mrsur\downloader\downloader\build\external_path\generated\res\rs\profile
+com.pinciat.external_path-mergeProfileResources-9 C:\Users\mrsur\downloader\downloader\build\external_path\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.pinciat.external_path-mergeProfileResources-10 C:\Users\mrsur\downloader\downloader\build\external_path\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.pinciat.external_path-merged_res-11 C:\Users\mrsur\downloader\downloader\build\external_path\intermediates\merged_res\profile

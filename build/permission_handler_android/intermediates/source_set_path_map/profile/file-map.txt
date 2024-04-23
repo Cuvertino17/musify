@@ -1,0 +1,12 @@
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-11.1.0\android\src\main\res
+com.baseflow.permissionhandler.permission_handler_android-profile-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-11.1.0\android\src\profile\res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\generated\res\pngs\profile
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\generated\res\resValues\profile
+com.baseflow.permissionhandler.permission_handler_android-rs-8 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\generated\res\rs\profile
+com.baseflow.permissionhandler.permission_handler_android-mergeProfileResources-9 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeProfileResources-10 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-merged_res-11 C:\Users\mrsur\downloader\downloader\build\permission_handler_android\intermediates\merged_res\profile

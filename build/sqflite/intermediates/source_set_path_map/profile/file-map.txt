@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.tekartik.sqflite-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.tekartik.sqflite-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\main\res
+com.tekartik.sqflite-profile-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\sqflite-2.3.0\android\src\profile\res
+com.tekartik.sqflite-pngs-6 C:\Users\mrsur\downloader\downloader\build\sqflite\generated\res\pngs\profile
+com.tekartik.sqflite-resValues-7 C:\Users\mrsur\downloader\downloader\build\sqflite\generated\res\resValues\profile
+com.tekartik.sqflite-rs-8 C:\Users\mrsur\downloader\downloader\build\sqflite\generated\res\rs\profile
+com.tekartik.sqflite-mergeProfileResources-9 C:\Users\mrsur\downloader\downloader\build\sqflite\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.tekartik.sqflite-mergeProfileResources-10 C:\Users\mrsur\downloader\downloader\build\sqflite\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.tekartik.sqflite-merged_res-11 C:\Users\mrsur\downloader\downloader\build\sqflite\intermediates\merged_res\profile

@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-media-1.4.1-0 C:\Users\mrsur\.gradle\caches\transforms-3\1a7f82c07e7d9404871f6426b8bb32db\transformed\media-1.4.1\res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-1 C:\Users\mrsur\.gradle\caches\transforms-3\36c1f2765710a1bbcb8121b3b93f19d2\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-2 C:\Users\mrsur\.gradle\caches\transforms-3\603e93ae578371f02b7776b41d0c68cc\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audio_session-core-1.6.0-4 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-5 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-6 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audio_session-main-7 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.16\android\src\main\res
+com.ryanheise.audio_session-release-8 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.16\android\src\release\res
+com.ryanheise.audio_session-pngs-9 C:\Users\mrsur\downloader\downloader\build\audio_session\generated\res\pngs\release
+com.ryanheise.audio_session-resValues-10 C:\Users\mrsur\downloader\downloader\build\audio_session\generated\res\resValues\release
+com.ryanheise.audio_session-rs-11 C:\Users\mrsur\downloader\downloader\build\audio_session\generated\res\rs\release
+com.ryanheise.audio_session-mergeReleaseResources-12 C:\Users\mrsur\downloader\downloader\build\audio_session\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 C:\Users\mrsur\downloader\downloader\build\audio_session\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.audio_session-merged_res-14 C:\Users\mrsur\downloader\downloader\build\audio_session\intermediates\merged_res\release

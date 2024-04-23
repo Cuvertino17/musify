@@ -1,0 +1,12 @@
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-java-1.0.0-beta04-0 C:\Users\mrsur\.gradle\caches\transforms-3\69784f8798499aada566d56915eaea52\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-core-1.6.0-1 C:\Users\mrsur\.gradle\caches\transforms-3\6dddb760d0966fac9de7068cfa8e174f\transformed\core-1.6.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-annotation-experimental-1.1.0-2 C:\Users\mrsur\.gradle\caches\transforms-3\abd548f6377ac26ea4638840cf10ac96\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.pathprovider.path_provider_android-jetified-window-1.0.0-beta04-3 C:\Users\mrsur\.gradle\caches\transforms-3\fc6658b749a9a03fa7668d3a2819fa6d\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.pathprovider.path_provider_android-main-4 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\main\res
+io.flutter.plugins.pathprovider.path_provider_android-profile-5 C:\Users\mrsur\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.1\android\src\profile\res
+io.flutter.plugins.pathprovider.path_provider_android-pngs-6 C:\Users\mrsur\downloader\downloader\build\path_provider_android\generated\res\pngs\profile
+io.flutter.plugins.pathprovider.path_provider_android-resValues-7 C:\Users\mrsur\downloader\downloader\build\path_provider_android\generated\res\resValues\profile
+io.flutter.plugins.pathprovider.path_provider_android-rs-8 C:\Users\mrsur\downloader\downloader\build\path_provider_android\generated\res\rs\profile
+io.flutter.plugins.pathprovider.path_provider_android-mergeProfileResources-9 C:\Users\mrsur\downloader\downloader\build\path_provider_android\intermediates\incremental\profile\mergeProfileResources\merged.dir
+io.flutter.plugins.pathprovider.path_provider_android-mergeProfileResources-10 C:\Users\mrsur\downloader\downloader\build\path_provider_android\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+io.flutter.plugins.pathprovider.path_provider_android-merged_res-11 C:\Users\mrsur\downloader\downloader\build\path_provider_android\intermediates\merged_res\profile
